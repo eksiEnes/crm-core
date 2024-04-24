@@ -1,13 +1,7 @@
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\entities\Role.java
 C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\filters\JwtAuthFilter.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\services\abstracts\UserService.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\entities\User.java
+C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\App.java
 C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\configuration\BaseSecurityConfiguration.java
 C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\jwt\JwtService.java
 C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\annotations\EnableSecurity.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\repositories\UserRepository.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\services\dtos\requests\RegisterRequest.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\App.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\services\concretes\UserServiceImpl.java
 C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\configuration\BaseApplicationConfiguration.java
 C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\configuration\BaseSecurityService.java
