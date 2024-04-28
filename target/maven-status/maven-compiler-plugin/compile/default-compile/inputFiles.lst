@@ -1,7 +1,7 @@
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\filters\JwtAuthFilter.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\App.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\configuration\BaseSecurityConfiguration.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\jwt\JwtService.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\annotations\EnableSecurity.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\configuration\BaseApplicationConfiguration.java
-C:\Users\berky\IdeaProjects\crm-core\src\main\java\com\turkcell\configuration\BaseSecurityService.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\App.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\configuration\BaseSecurityService.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\jwt\JwtService.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\configuration\BaseSecurityConfiguration.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\filters\JwtAuthFilter.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\configuration\BaseApplicationConfiguration.java
+C:\Users\enes-\Desktop\crm-core\src\main\java\com\turkcell\annotations\EnableSecurity.java
